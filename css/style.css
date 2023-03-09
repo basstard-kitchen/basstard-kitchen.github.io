@@ -6,14 +6,10 @@ body
 	align-content: center;
 	margin-left: auto;
     margin-right: auto;
+	text-align: center;
 }
 
 a
 {
 	color:white;
-}
-
-#corps
-{
-	text-align: center 
 }
